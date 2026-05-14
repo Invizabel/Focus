@@ -1,4 +1,4 @@
-* A backend for all you smart dashboard needs!
+* Busy Bar Smart Dashboard Project
 
 Features:
 * ISS Tracker
